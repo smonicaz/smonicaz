@@ -12,7 +12,7 @@ At the moment, i'm learning:
 <br>
 Follow me:
 <br>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" a href="www.linkedin.com/in/monicacsouza">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" <a href="www.linkedin.com/in/monicacsouza">Linkedin</a>>
 
 
 
