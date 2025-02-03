@@ -13,7 +13,7 @@ At the moment, i'm learning:
 Follow me:
 <br>
 <p>
-  <a href="www.linkedin.com/in/monicacsouza"/>
+  <a href="https://linkedin.com/in/monicacsouza"/>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
